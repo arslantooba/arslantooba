@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Arslan
+- 👋 Hi, I’m Tooba
 - 👀 I’m interested in Medicine
 - 🌱 I’m currently learning in Highschool
 - 💞️ I’m looking to collaborate on Computer Science 
